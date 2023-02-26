@@ -1,0 +1,115 @@
+
+.logo a
+{
+    font-family:  'Times New Roman', Times, serif ;
+    color: cornflowerblue;
+    padding: auto;
+    border: 1px solid transparent;
+    position:absolute ;
+    top:10px;
+    left: 10px;
+    font-weight: 900 ;
+    font-size: 25px;
+    text-decoration:none;
+    
+}
+div
+{
+    display: block  ;
+    display: flex;
+
+}
+ul
+{
+    list-style: none;
+    /* float: right; */
+    display: flex;
+    margin-top : px;
+    
+}
+
+ul li a {
+    text-decoration: none;
+    color: black
+    padding: 10px 20px;
+    text-transform: uppercase;
+    margin: 10px;
+    border: 1px solid #fff;
+    transition: 0.6s ease;
+    
+
+}
+ul li a:hover
+{
+    background: #fff;
+    color:black;
+
+
+}
+ul li .liste a 
+{
+    background:white ;
+    color: black;
+
+
+}
+}
+
+a
+{
+    text-transform: capitalize;
+}
+ul.liste
+{
+    text-decoration: none    
+        padding: 10px 20px;
+        text-transform: uppercase;
+        margin: 10px;
+        border: 1px solid #fff;
+        transition: 0.6s ease;
+        transform: translate(500px, 10px);
+}
+li  
+{
+    text-decoration: none    
+    padding: 10px 20px;
+    text-transform: uppercase;
+    margin: 10px;
+    border: 1px solid #fff;
+    transform: translate(-50%,-50% ) ;
+    position: relative;
+
+}
+p.p1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font: size 100px;
+    text-transform: capitalize; 
+    color: pink;
+
+}
+img
+{
+    
+    max-width: 40%;
+    margin: 3px;
+    float: right;
+    height: 70%;
+    transform: scale(1.5);
+
+}
+.date1
+{
+   color: red; 
+}
+
+.date2
+{
+    color: seagreen;
+    font-weight:bold ;
+}
+.date3
+{
+    background-color: rebeccapurple;
+    
+}
